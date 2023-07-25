@@ -1,0 +1,356 @@
+body{
+    background-color: #f5f5f5;
+    
+    main{
+        .intro{
+            display: flex;
+            h1{
+                font-size: 3pc;
+                width: 300px;
+                .button {
+                    background-color:#fca61f;
+                    border: none;
+                    color: white;
+                    width: 200px;
+                    h1{
+                        font-weight:100 ;
+                        font-size: smaller;
+                        margin-left: 15px;
+                    }
+
+                    cursor: pointer;
+                    border-radius: 20px;
+                  }
+                span{
+                    color: #fca61f;
+                    width: 100px;
+                }
+            }
+            .pay{
+                margin-left: 300px;
+                .traffic{
+                    width: 200px;
+                    background-color: white;
+                    margin-top: 30px;
+                    padding: 0px;
+                    border-radius: 10px;
+                    cursor: pointer;
+                    h4{
+                        color: wheat;
+                        font-size: 10px;
+                        margin-bottom: 30px;
+                        
+                    }
+                    .ib{
+                        display: flex;
+                        align-items: center;
+
+                    h2{
+                        color: #2b3674;
+                        font-size: 20px;
+                        margin-right:0px;
+                        
+                    }
+                    img{
+                        width: 60px;
+                        border-radius: 30px;
+                        cursor: pointer;
+                    }   
+                    }
+                    
+                    
+                }
+                .img{
+                    display: flex;
+                    .degre{
+                    img{
+                        margin-top: 100px;
+                    }
+                }
+                .foto {
+                    img{
+                        width: 400px;
+                    }
+                }   
+                }
+                
+            }
+        }
+        .hola{
+            display: flex;
+            .img{
+                img{
+                    width: 400px;
+                    padding: 20px;
+                }
+            }
+            .text{
+                margin-left: 200px;
+                h1{
+                    align-items: start;
+                    color:#22324a ;
+                }
+                h2{
+                    color: #fca61f;
+                }
+                p{
+                width: 500px;
+                font-weight:bolder;
+                color: #22324a;
+                font-size: larger;
+                }
+
+            }
+        }
+    .part3{
+        margin-top: 40px;
+        display: flex;
+        .text2{
+            p{
+                width: 400px;
+                font-weight:bolder;
+                color: #22324a;
+                font-size: larger;
+                margin-top: 50px;
+            }
+            
+        }
+        .img2{
+            margin-left:150px;
+        }
+
+    }
+    .part4{
+        margin-top: 50px;
+        display: flex;
+        .text3{
+            h1{
+                margin-left: 200PX;
+            }
+            p{
+                width: 400px;
+                font-weight:bolder;
+                color: #22324a;
+                font-size: larger;
+                margin-top: 50px;
+                margin-left: 200px;
+            }
+            
+        }
+        .img3{
+            img{
+                    width: 500px;
+                    padding: 20px;
+                    height: 300px;
+            }
+        }
+
+    }
+    .part5{
+        display: flex;
+        margin-top: 50px;
+        .img4{
+        img{
+            width: 500px;
+                    padding: 20px;
+                    height: 300px;
+        }
+        }
+        .text4{
+            margin-left: 10px;
+            margin-right: 200px;
+            h1{
+                
+            }
+            p{
+                width: 400px;
+                font-weight:bolder;
+                color: #22324a;
+                font-size: larger;
+                margin-top: 50px;
+                
+            }
+        }
+    }
+    h1{
+        color: #fca61f;
+    }
+    .why{
+        height: 300px;
+        
+        background-color: white;
+        
+        .lau{
+            display: flex;
+        .qar{
+            margin-right: 30px;
+        h2{
+        width: 300px;
+        color: #22324a;
+        }
+        p{
+            width: 300px;
+        }
+        }
+        .key{
+            h2{
+                width: 300px;
+                color: #22324a;
+            }
+            p{
+                width: 300px;
+            }
+        }
+        .cev{
+            h2{
+                width: 300px;
+                color: #22324a;
+                }
+                p{
+                    width: 200px;
+                }
+        }
+        .yen{
+            h2{
+                width: 300px;
+                color: #22324a;
+                }
+                p{
+                    width: 300px;
+                }
+        }
+    }
+    }
+    .Api{
+        margin-top: 100px;
+        display: flex;
+        .text5{
+        h1{
+            width: 500px;
+        }
+        p{
+            width: 400px;
+        }
+        }
+        .img5{
+            margin-left: 200px;
+            img{
+                    width: 500px;
+                            padding: 20px;
+                            height: 300px;
+                            border-radius: 100px;
+            }
+        }
+    }
+    .why2{
+        margin-top: 100px;
+        .lau2{
+            display: flex;
+            .qar2{
+                h2{
+
+                }
+                p{
+                width: 400px;
+                color: #2b3674;
+                }
+            }
+            .jasl{
+                h2{
+
+                }
+                p{
+                    width: 700px;
+                    color: #2b3674;
+                }
+            }
+        }
+    }
+    .comapn{
+        height: 300px;
+        margin-top: 200px;
+        background-color: grey;
+        .com{
+            margin-left: 300px;
+            display: flex;
+        .Ing{
+        img{
+            width: 100px;
+            padding: 100px;
+        }
+        }
+        .pul{
+            img{
+                width: 100px;
+                padding: 100px;
+            }
+        }
+        }
+    }
+    }
+    footer{
+        display: flex;
+        background-color: #fca61f;
+        .star{
+            margin-left: 100px;
+            h1{
+            color: #22324a;
+            }
+            p{
+                color: #22324a;
+            width: 180px;
+            }
+
+        }
+        .end{
+            margin-left: 700px;
+            h1{
+                color: #22324a;
+            }
+            p{
+                color: #22324a;
+                width: 20px;
+            }
+        }
+        
+    }
+    margin-left: 60px;
+    header{
+        display: flex;
+        .icon{
+            display: flex;
+            h1{
+                font-family: 'Lugrasimo';
+                cursor: pointer;
+            }
+            .M{
+                color: #fca61f;
+            }
+            .Sol{
+                color: #22324a;
+            }
+        }
+        .Con{
+            margin-top: 30px;
+            text-align: center;
+            align-items: center;
+            margin-left: 300px;
+            a{
+                text-decoration: none;
+                margin-left: 20px;
+                color: black;
+            }
+            
+        }
+        .lan{
+            margin-top: 20px;
+            margin-left: 300px;
+            select{
+                width: 80px;
+                padding: 20%;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+        }
+    }
+}

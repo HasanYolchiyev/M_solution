@@ -1,0 +1,403 @@
+body {
+  background-color: #f5f5f5;
+  margin-left: 60px;
+}
+
+body main .intro {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body main .intro h1 {
+  font-size: 3pc;
+  width: 300px;
+}
+
+body main .intro h1 .button {
+  background-color: #fca61f;
+  border: none;
+  color: white;
+  width: 200px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+body main .intro h1 .button h1 {
+  font-weight: 100;
+  font-size: smaller;
+  margin-left: 15px;
+}
+
+body main .intro h1 span {
+  color: #fca61f;
+  width: 100px;
+}
+
+body main .intro .pay {
+  margin-left: 300px;
+}
+
+body main .intro .pay .traffic {
+  width: 200px;
+  background-color: white;
+  margin-top: 30px;
+  padding: 0px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+body main .intro .pay .traffic h4 {
+  color: wheat;
+  font-size: 10px;
+  margin-bottom: 30px;
+}
+
+body main .intro .pay .traffic .ib {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body main .intro .pay .traffic .ib h2 {
+  color: #2b3674;
+  font-size: 20px;
+  margin-right: 0px;
+}
+
+body main .intro .pay .traffic .ib img {
+  width: 60px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+body main .intro .pay .img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body main .intro .pay .img .degre img {
+  margin-top: 100px;
+}
+
+body main .intro .pay .img .foto img {
+  width: 400px;
+}
+
+body main .hola {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body main .hola .img img {
+  width: 400px;
+  padding: 20px;
+}
+
+body main .hola .text {
+  margin-left: 200px;
+}
+
+body main .hola .text h1 {
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: start;
+  color: #22324a;
+}
+
+body main .hola .text h2 {
+  color: #fca61f;
+}
+
+body main .hola .text p {
+  width: 500px;
+  font-weight: bolder;
+  color: #22324a;
+  font-size: larger;
+}
+
+body main .part3 {
+  margin-top: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body main .part3 .text2 p {
+  width: 400px;
+  font-weight: bolder;
+  color: #22324a;
+  font-size: larger;
+  margin-top: 50px;
+}
+
+body main .part3 .img2 {
+  margin-left: 150px;
+}
+
+body main .part4 {
+  margin-top: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body main .part4 .text3 h1 {
+  margin-left: 200PX;
+}
+
+body main .part4 .text3 p {
+  width: 400px;
+  font-weight: bolder;
+  color: #22324a;
+  font-size: larger;
+  margin-top: 50px;
+  margin-left: 200px;
+}
+
+body main .part4 .img3 img {
+  width: 500px;
+  padding: 20px;
+  height: 300px;
+}
+
+body main .part5 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 50px;
+}
+
+body main .part5 .img4 img {
+  width: 500px;
+  padding: 20px;
+  height: 300px;
+}
+
+body main .part5 .text4 {
+  margin-left: 10px;
+  margin-right: 200px;
+}
+
+body main .part5 .text4 p {
+  width: 400px;
+  font-weight: bolder;
+  color: #22324a;
+  font-size: larger;
+  margin-top: 50px;
+}
+
+body main h1 {
+  color: #fca61f;
+}
+
+body main .why {
+  height: 300px;
+  background-color: white;
+}
+
+body main .why .lau {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body main .why .lau .qar {
+  margin-right: 30px;
+}
+
+body main .why .lau .qar h2 {
+  width: 300px;
+  color: #22324a;
+}
+
+body main .why .lau .qar p {
+  width: 300px;
+}
+
+body main .why .lau .key h2 {
+  width: 300px;
+  color: #22324a;
+}
+
+body main .why .lau .key p {
+  width: 300px;
+}
+
+body main .why .lau .cev h2 {
+  width: 300px;
+  color: #22324a;
+}
+
+body main .why .lau .cev p {
+  width: 200px;
+}
+
+body main .why .lau .yen h2 {
+  width: 300px;
+  color: #22324a;
+}
+
+body main .why .lau .yen p {
+  width: 300px;
+}
+
+body main .Api {
+  margin-top: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body main .Api .text5 h1 {
+  width: 500px;
+}
+
+body main .Api .text5 p {
+  width: 400px;
+}
+
+body main .Api .img5 {
+  margin-left: 200px;
+}
+
+body main .Api .img5 img {
+  width: 500px;
+  padding: 20px;
+  height: 300px;
+  border-radius: 100px;
+}
+
+body main .why2 {
+  margin-top: 100px;
+}
+
+body main .why2 .lau2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body main .why2 .lau2 .qar2 p {
+  width: 400px;
+  color: #2b3674;
+}
+
+body main .why2 .lau2 .jasl p {
+  width: 700px;
+  color: #2b3674;
+}
+
+body main .comapn {
+  height: 300px;
+  margin-top: 200px;
+  background-color: grey;
+}
+
+body main .comapn .com {
+  margin-left: 300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body main .comapn .com .Ing img {
+  width: 100px;
+  padding: 100px;
+}
+
+body main .comapn .com .pul img {
+  width: 100px;
+  padding: 100px;
+}
+
+body footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #fca61f;
+}
+
+body footer .star {
+  margin-left: 100px;
+}
+
+body footer .star h1 {
+  color: #22324a;
+}
+
+body footer .star p {
+  color: #22324a;
+  width: 180px;
+}
+
+body footer .end {
+  margin-left: 700px;
+}
+
+body footer .end h1 {
+  color: #22324a;
+}
+
+body footer .end p {
+  color: #22324a;
+  width: 20px;
+}
+
+body header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body header .icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body header .icon h1 {
+  font-family: 'Lugrasimo';
+  cursor: pointer;
+}
+
+body header .icon .M {
+  color: #fca61f;
+}
+
+body header .icon .Sol {
+  color: #22324a;
+}
+
+body header .Con {
+  margin-top: 30px;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-left: 300px;
+}
+
+body header .Con a {
+  text-decoration: none;
+  margin-left: 20px;
+  color: black;
+}
+
+body header .lan {
+  margin-top: 20px;
+  margin-left: 300px;
+}
+
+body header .lan select {
+  width: 80px;
+  padding: 20%;
+  border-radius: 4px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
